@@ -1,0 +1,8 @@
+*.exe~
+*.dll
+*.so
+*.dylib
+
+sqlite.db
+uploads/
+.DS_Store
